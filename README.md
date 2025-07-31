@@ -1,4 +1,5 @@
-![Banner](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMDExNTAsIm5iZiI6MTc1NDAwMDg1MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDIyMjczMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwOGFiOTY5YjQ3NTRiMGUxZDdiNmFjZWYyMmJhMDUwOWY0NmNjNTIwNzFiNmM4ZjlkMmJhMGM5YWZlZjczYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KmIPOWmIbiYLXnszzYHLZfIlB2VgFX17nKCvqE3LoCM)
+
+![Banner](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMDUwNzQsIm5iZiI6MTc1NDAwNDc3NCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDIzMzI1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg4NzZmMzU4MjQ0NDU0NzAzMGJmZTIxYTZjYmI2NzAyZjIwMjYyYmM0MWFhZjJiOTZkYWRhOGUxMzJlMWUwODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cvEeiTDkK-eFLNXaq3KM3JWVTfOCY9gTqWOnlwDzarM)
 
 # 👋 Olá, eu sou o Francisco Wanderer!  
 
@@ -7,9 +8,9 @@
 
 ![Banner](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+## 🛠️ Tecnologias e Ferramentas
+
 <div align="center">
-  
-  ## 🛠️ Tecnologias e Ferramentas
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,7 +49,7 @@
 
 </div>
 
-![Banner](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+<br>
 
 <div align="center">
   
@@ -61,3 +62,5 @@
   ![snake gif](https://github.com/FranciscoWan/FranciscoWan/blob/output/github-snake-dark.svg)
   
 </div>
+
+![Banner](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
