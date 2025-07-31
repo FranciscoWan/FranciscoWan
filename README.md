@@ -25,16 +25,18 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSilva&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoSilva&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FranciscoWan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWan&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfranciscowanderer/))
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfranciscowanderer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.seusite.com)
+</div>
 
 ---
 
@@ -42,6 +44,6 @@
   
 💡 *"A tecnologia move o mundo. Estou aqui para fazer parte dessa evolução."* 🚀  
 
-![Snake animation]![](https://raw.githubusercontent.com/FranciscoWan/FranciscoWan/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/FranciscoWan/FranciscoWan/output/github-contribution-grid-snake.svg)
 
 </div>
