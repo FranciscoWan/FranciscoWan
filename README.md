@@ -31,19 +31,18 @@
 
 ---
 
+![Banner](https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMDExNTAsIm5iZiI6MTc1NDAwMDg1MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDIyMjczMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwZGVlMDRhZTlmNGQ1NmFmNmQ5MzA0NmZmOTBhMmRkMTAzMWViNTdjNzEzOWVlNTRjNWI2Yzg3ZDJkOTAzMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IXDJyBXYxwoDvz_q1Mjvrene5pCgD4GHsWdwUPOvDTQ)
+
+
 ## 🌎 Conecte-se comigo
 
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfranciscowanderer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.seusite.com)
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devwanderer-website.vercel.app/)
 
 ---
 
 <div align="center">
   
 💡 *"A tecnologia move o mundo. Estou aqui para fazer parte dessa evolução."* 🚀  
-
-![Snake animation](https://raw.githubusercontent.com/FranciscoWan/FranciscoWan/output/github-contribution-grid-snake.svg)
 
 </div>
