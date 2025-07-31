@@ -42,6 +42,6 @@
   
 💡 *"A tecnologia move o mundo. Estou aqui para fazer parte dessa evolução."* 🚀  
 
-![Snake animation](https://github.com/FranciscoWan/FranciscoWan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]![](https://raw.githubusercontent.com/FranciscoWan/FranciscoWan/output/github-contribution-grid-snake.svg)
 
 </div>
