@@ -1,4 +1,4 @@
-![Banner]([https://i.imgur.com/zHiT1hP.gif](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMDA2MTksIm5iZiI6MTc1NDAwMDMxOSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDIyMTgzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRjNDU2ZjVmMDYxOTdhMmFjOWNkYTQ2MGFkMDI2NDZkYTcwMWQ1ZGM3ZDA5OWZmMmMwMTQ1ZDFjZjgzMjQ1NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.1FK-vWZhNTZrrZrIiJMIa8QguFDtEnRO1KmRr8TeVuI))
+![Banner](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMDExNTAsIm5iZiI6MTc1NDAwMDg1MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDIyMjczMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwOGFiOTY5YjQ3NTRiMGUxZDdiNmFjZWYyMmJhMDUwOWY0NmNjNTIwNzFiNmM4ZjlkMmJhMGM5YWZlZjczYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.KmIPOWmIbiYLXnszzYHLZfIlB2VgFX17nKCvqE3LoCM)
 
 # 👋 Olá, eu sou o Francisco Wanderer!  
 
@@ -33,7 +33,7 @@
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfranciscowanderer/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.seusite.com)
 
 ---
@@ -42,6 +42,6 @@
   
 💡 *"A tecnologia move o mundo. Estou aqui para fazer parte dessa evolução."* 🚀  
 
-![Snake animation](https://github.com/FranciscoSilva/FranciscoSilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FranciscoWan/FranciscoWan/blob/output/github-contribution-grid-snake.svg)
 
 </div>
