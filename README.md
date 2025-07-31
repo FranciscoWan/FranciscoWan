@@ -5,7 +5,7 @@
 🔹 Atuando principalmente com **automação de sistemas**, desenvolvendo soluções inteligentes para otimizar processos empresariais.  
 🔹 Experiência sólida em **Python**, **SQL** e **Machine Learning**, além de habilidades em desenvolvimento web.  
 
----
+![Banner](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -31,8 +31,7 @@
 
 ---
 
-![Banner](https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMDExNTAsIm5iZiI6MTc1NDAwMDg1MCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDIyMjczMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwZGVlMDRhZTlmNGQ1NmFmNmQ5MzA0NmZmOTBhMmRkMTAzMWViNTdjNzEzOWVlNTRjNWI2Yzg3ZDJkOTAzMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IXDJyBXYxwoDvz_q1Mjvrene5pCgD4GHsWdwUPOvDTQ)
-
+![Banner](https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMDI2MjAsIm5iZiI6MTc1NDAwMjMyMCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDIyNTIwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1ZjYzZTRiNzQ1YWVlNThiODAyYmExYmFlMjZlODhlOTdjYzZiOWE3ZDEwZDk0MWE0Njk0ZjUxYmYxMWYyZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BxkKdeBwKjQ5EPjBeNBY-1HQBBqzEkPAwPJ7xsh82A0)
 
 ## 🌎 Conecte-se comigo
 
