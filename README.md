@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou o Francisco Wanderer!  
 
-🔹 Atuo principalment com **automação de sistemas**, desenvolvo soluções inteligentes para otimizar processos empresariais.  
+🔹 Atuo principalmente com **automação de sistemas**, desenvolvo soluções inteligentes para otimizar processos empresariais.  
 🔹 Experiência sólida em **Python**, **SQL** e **Machine Learning**, além de habilidades em desenvolvimento web.  
 
 ![Banner](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
