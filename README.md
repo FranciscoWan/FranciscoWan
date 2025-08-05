@@ -1,5 +1,8 @@
+<div align="center">
 
-![Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250801%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250801T013048Z&X-Amz-Expires=300&X-Amz-Signature=9d2ef8321690caa31f4265db34c0021b13746a6cf3838709bff25c14edb7eb10&X-Amz-SignedHeaders=host)
+![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVkdHpnZjAxN2t2MTU0cmZnMmRmb3lwNmdiNjEyYWxmbzgyODZ6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
+
+</div>
 
 # 👋 Olá, eu sou o Francisco Wanderer!  
 
