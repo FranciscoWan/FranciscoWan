@@ -4,7 +4,11 @@
 
 </div>
 
-# 👋 Olá, eu sou o Francisco Wanderer!  
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=1000&color=6A9AED&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Francisco+Wanderer;Python+Developer;Machine+Learning;Process+Automation)](https://git.io/typing-svg)
+  
+</div>
 
 🔹 Atuo principalmente com **automação de sistemas**, desenvolvo soluções inteligentes para otimizar processos empresariais.  
 🔹 Experiência sólida em **Python**, **SQL** e **Machine Learning**, além de habilidades em desenvolvimento web.  
