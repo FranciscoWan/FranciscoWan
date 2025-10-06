@@ -60,7 +60,7 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FranciscoWan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWan&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" />
 </div>
 
 ---
