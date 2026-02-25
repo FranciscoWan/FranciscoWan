@@ -56,15 +56,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FranciscoWan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoWan&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=6" />
-</div>
-
----
-
 <br>
 
 <div align="center">
@@ -73,7 +64,7 @@
 ## 🌎 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscowan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devwanderer-website.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wandererfullstack.vercel.app/)
 
 </div>
 
