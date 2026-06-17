@@ -4,21 +4,21 @@
 
 Construo e sustento APIs REST e aplicações web full stack, com foco em arquitetura desacoplada e sistemas transacionais ligados a meios de pagamento. Também atuo com **automação de processos e dados em Python**. Tenho perfil mão na massa, senso de dono sobre o que entrego e interesse pelo negócio por trás do código.
 
-- 🏦 Atuo com **fintech / meios de pagamento**, incluindo fluxos de **PIX** e integração com múltiplos bancos.
-- 🧩 Gosto de aplicar **SOLID** e **inversão de dependência** para manter o código testável e fácil de evoluir.
-- 🐍 Background em **Python**, **SQL** e **Machine Learning**, voltado a automação e análise de dados.
-- 🌱 Atualmente aprofundando **arquitetura de software**, observabilidade e boas práticas de sistemas críticos.
+- Atuo com **fintech / meios de pagamento**, incluindo fluxos de **PIX** e integração com múltiplos bancos.
+- Gosto de aplicar **SOLID** e **inversão de dependência** para manter o código testável e fácil de evoluir.
+- Background em **Python**, **SQL** e **Machine Learning**, voltado a automação e análise de dados.
+- Atualmente aprofundando **arquitetura de software**, observabilidade e boas práticas de sistemas críticos.
 
 ---
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 **API de Orquestração de Geração de PIX** · `NestJS` · `Angular`
 Plataforma transacional que centraliza a geração de cobranças PIX integrando as APIs de **diversos bancos** sob uma interface única. Cada banco é uma implementação de um contrato comum (inversão de dependência), permitindo adicionar ou trocar integrações sem alterar o núcleo do fluxo — com foco em confiabilidade e segurança de uma operação que movimenta dinheiro em tempo real.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 #### Linguagens
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
